@@ -1,0 +1,1 @@
+javascript:(function(){$.getScript('https://raw.githubusercontent.com/zeboss111/Zebot/master/.gitignore');})();
