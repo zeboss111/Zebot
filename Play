@@ -1,1 +1,2 @@
-javascript:(function(){$.getScript('https://rawgit.com/zeboss111/Zebot/master/.gitignore');})();
+javascript:(function(){$.getScript
+('https://rawgit.com/zeboss111/Zebot/master/.gitignore');}) ();
